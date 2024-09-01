@@ -6,4 +6,4 @@
 | ----------------------| ------------| -------| -----|
 | [simforianus.jonathan](https://github.com/SimforianusJonathan/os242) | [mylog.txt](TXT/mylog.txt) | [links](links.md) | [Know More](tips.md) |
 
-## REV: Sunday 1 September 2024 14:20
+REV: Sunday 1 September 2024 14:20
