@@ -10,9 +10,7 @@ permalink: LINKS/
 * [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/){:target="_blank"} ---
   The Deadline is 7 (seven) days after the assignment was announced.
 * [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
-  Slides with LaTeX sources code.
-* 
-These commands will help you list PCI devices, view information about your CPU, and more.
+  Slides with LaTeX sources code. These commands will help you list PCI devices, view information about your CPU, and more.
 
-REV: Wed 05 Sep 2024 16:39
+REV: Wed 05 Sep 2024 16:40
 
