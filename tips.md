@@ -1,5 +1,7 @@
 ---
+permalink: TIPS/
 ---
+
 # Tips
 
 * Read Assignment's instrucitions carefully
