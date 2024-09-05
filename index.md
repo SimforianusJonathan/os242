@@ -4,6 +4,6 @@
 
 |  GitHub               |    LogTXT   |  Links | Tips |
 | ----------------------| ------------| -------| -----|
-| [simforianus.jonathan](https://github.com/SimforianusJonathan/os242) | [mylog.txt](TXT/mylog.txt) | [links](links.md) | [Know More](tips.md) |
+| [simforianus.jonathan]((https://github.com/SimforianusJonathan/os242)){:target="_blank"} | [mylog.txt]TXT/mylog.txt){:target="_blank"} | [links](LINKS/){:target="_blank"} | [Know More]((TIPS/){:target="_blank") |
 
-REV: Sunday 1 September 2024 15 : 35
+REV: Sunday 5 September 2024 16 : 34
