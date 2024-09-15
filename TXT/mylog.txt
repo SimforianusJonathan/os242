@@ -21,3 +21,16 @@ ZCZC WO1 20 L13 Assignment #3
 ZCZC W01 15 L14 Assignment #4
 ZCZC W01 5 L15 Assignment #5
 
+ZCZC W02 100 L02 classroom - monday
+ZCZC W02 10 L11 Assignment #1
+ZCZC W02 20 L12 Assignment #2
+ZCZC W02 90 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 100 L02 classroom - wednesday
+ZCZC W02 10 L01 SCELE/Discord related
+ZCZC WO2 20 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 5 L15 Assignment #5
+ZCZC W02 8 L16 Assignment #6
+ZCZC W02 15 L17 Assignment #7
+ZCZC W02 30 L05 Quiz
+ZCZC W02 15 L09 PopQuiz 1 related finished
