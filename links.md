@@ -11,9 +11,9 @@ permalink: LINKS/
   The Deadline is 7 (seven) days after the assignment was announced.
 * [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
   Slides with LaTeX sources code. These commands will help you list PCI devices, view information about your CPU, and more.
-* [Operating System from Neso Academy](https://www.geeksforgeeks.org/operating-systems/)
-* [VI and Its Basic Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
-* [Nano and Its Basic Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf)
+* [Operating System from Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O){:target="_blank"} --- Operasting Sistem Free Course from Neso Academy
+* [VI and Its Basic Commands](https://www.cs.colostate.edu/helpdocs/vi.html){:target="_blank"} --- Lis and Guides of Commands of VI editor
+* [Nano and Its Basic Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf){:target="_blank"} --- List and Guides of Commands on Nano Editor
 
 REV: Tue 24 Sep 2024 14:38
 
