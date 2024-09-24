@@ -11,6 +11,10 @@ permalink: LINKS/
   The Deadline is 7 (seven) days after the assignment was announced.
 * [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
   Slides with LaTeX sources code. These commands will help you list PCI devices, view information about your CPU, and more.
+* [Operating System from Neso Academy](https://www.geeksforgeeks.org/operating-systems/)
+* [VI and Its Basic Commands](https://www.cs.colostate.edu/helpdocs/vi.html)
+* [Nano and Its Basic Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf)
 
-REV: Wed 05 Sep 2024 16:40
+REV: Tue 24 Sep 2024 14:38
+
 
