@@ -46,3 +46,17 @@ ZCZC W03 10 L14 Assignment #4
 ZCZC W03 15 L09 PopQuiz 3 related finished
 ZCZC W03 25 L14 Assignment #5
 ZCZC W03 180 L70 Studying for other courses.
+
+ZCZC W04 100 L02 classroom - monday
+ZCZC W04 100 L02 classroom - wednesday
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 15 L09 PopQuiz Week04 related finished
+ZCZC W04 5 L11 Assignment #1
+ZCZC W04 10 L12 Assignment #2
+ZCZC WO4 10 L13 Assignment #3
+ZCZC W04 15 L14 Assignment #4
+ZCZC W04 40 L14 Assignment #5
+ZCZC W04 120 L05 Studying OS material week 04
+ZCZC W04 30 L05 Weekly Quiz
+ZCZC W04 240 L70 Studying for other courses.
+
