@@ -14,7 +14,8 @@ permalink: LINKS/
 * [Operating System from Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O){:target="_blank"} --- Operasting Sistem Free Course from Neso Academy
 * [VI and Its Basic Commands](https://www.cs.colostate.edu/helpdocs/vi.html){:target="_blank"} --- Lis and Guides of Commands of VI editor
 * [Nano and Its Basic Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf){:target="_blank"} --- List and Guides of Commands on Nano Editor
+* [C Language Tutorial](https://www.w3schools.com/c/){:target="_blank"} --- Tutorial from W3Schools
+* [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Memory Management in Operation System
 
-REV: Tue 24 Sep 2024 14:47
-
+REV: Mon 01 Oct 2024 00:29
 
