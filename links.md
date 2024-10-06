@@ -16,6 +16,8 @@ permalink: LINKS/
 * [Nano and Its Basic Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf){:target="_blank"} --- List and Guides of Commands on Nano Editor
 * [C Language Tutorial](https://www.w3schools.com/c/){:target="_blank"} --- Tutorial from W3Schools
 * [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Memory Management in Operation System
+* [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Virtual Memory in Operation System
+* [Virtual Memory Principle and Implementation](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"} --- Introduction and Visualization of Virtual Memory in Operating System
 
-REV: Mon 01 Oct 2024 00:29
+REV: Mon 07 Oct 2024 00:56
 
