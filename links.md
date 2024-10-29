@@ -18,6 +18,6 @@ permalink: LINKS/
 * [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Memory Management in Operation System
 * [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Virtual Memory in Operation System
 * [Virtual Memory Principle and Implementation](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"} --- Introduction and Visualization of Virtual Memory in Operating System
-
-REV: Mon 07 Oct 2024 00:56
+* [Fork System Call in OS](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for "forking" in Operation System
+REV: Tue 29 Oct 2024 21:07
 
