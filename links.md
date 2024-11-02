@@ -19,5 +19,7 @@ permalink: LINKS/
 * [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for Virtual Memory in Operation System
 * [Virtual Memory Principle and Implementation](https://www.youtube.com/watch?v=A9WLYbE0p-I){:target="_blank"} --- Introduction and Visualization of Virtual Memory in Operating System
 * [Fork System Call in OS](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for "forking" in Operation System
-REV: Tue 29 Oct 2024 21:07
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/){:target="_blank"} --- Introduction of Process Synchronization from Geeks for Geeks
+* [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction){:target="_blank"} --- Process Synchronization in OS (Operating System) from javatpoint
+REV: Tue 02 Nov 2024 22:03
 
