@@ -21,5 +21,8 @@ permalink: LINKS/
 * [Fork System Call in OS](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/){:target="_blank"} --- GeeksForGeeks's Summary for "forking" in Operation System
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/){:target="_blank"} --- Introduction of Process Synchronization from Geeks for Geeks
 * [Process Synchronization in OS (Operating System)](https://www.javatpoint.com/os-process-synchronization-introduction){:target="_blank"} --- Process Synchronization in OS (Operating System) from javatpoint
-REV: Tue 02 Nov 2024 22:03
+* [CPU Rescheduling Operating System](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/){:target="_blank"} --- CPU Rescheduling in operating system from Geeks for Geeks
+* [CPU Rescheduling](https://www.javatpoint.com/os-cpu-scheduling){:target="_blank"} --- CPU Rescheduling in operating systen from javatpoint
+
+REV: Thu 07 Nov 2024 16:51
 
